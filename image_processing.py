@@ -34,7 +34,7 @@ def create_rgb_image(item, latitude, longitude, year):
         )
 
         # -----------------------------------
-        # Crop 500 x 500 pixels
+        # Crop 400 x 400 pixels
         # -----------------------------------
 
         crop_size = 400
